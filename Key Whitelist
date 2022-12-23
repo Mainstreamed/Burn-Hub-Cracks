@@ -1,6 +1,5 @@
 local ClientID = game:GetService("RbxAnalyticsService"):GetClientId()
 local Test_Table = {
     [''] = ClientID,
-    ['BurnHubCrack'] = ClientID,
 }
 return Test_Table
